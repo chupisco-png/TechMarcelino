@@ -1,4 +1,4 @@
---------Software_para_desktop1.0----------
+--------Software_para_desktop 1.0----------
 
               TechMarcelino
 
