@@ -2,6 +2,7 @@
 
 --------------TechMarcelino----------------
 
-Esse software para cadastrar clientes ao comércio utilizando o vs studio e linguagem C#.
 
+Descrição do Software
+Esse software para cadastrar clientes ao comércio utilizando o vs studio e linguagem C#.
 (ainda está desenvolvemento)
